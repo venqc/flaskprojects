@@ -1,6 +1,11 @@
 Python Flask Learning Repo.
 This repository contains sub-folders.
 
+flask-app-01 > Login and Registration Project in Flask using MySQL
+flask-app-02 >
+flask-app-03 >
+flask-app-04 >
+flask-app-05 >
 
     Beautiful is better than ugly.
     Explicit is better than implicit.
@@ -34,7 +39,7 @@ This repository contains sub-folders.
 
 "Python plays a key role in our production pipeline".
 
-   # Convention over configuration
-   # There's more than one way to do it
+    Convention over configuration
+    There's more than one way to do it
 
 Check later - DRY, WET, AHA, SSOT/SPOT, YAGNI etc.
